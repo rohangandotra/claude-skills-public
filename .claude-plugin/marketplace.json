@@ -4,7 +4,7 @@
   "plugins": [
     {
       "name": "creator-skills",
-      "description": "6 production-ready skills for content creation and marketing automation",
+      "description": "7 production-ready skills for content creation, video editing, and marketing automation",
       "source": "./",
       "strict": false,
       "skills": [
@@ -13,7 +13,8 @@
         "./skills/landing-page-builder",
         "./skills/overnight-agent",
         "./skills/social-media-poster",
-        "./skills/competitor-analyzer"
+        "./skills/competitor-analyzer",
+        "./skills/reel-editor"
       ]
     }
   ]
