@@ -14,7 +14,7 @@ Skills are instruction folders that teach Claude Code how to do specific tasks. 
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/claude-skills-public.git
+git clone https://github.com/rohangandotra/claude-skills-public.git
 
 # Copy any skill into your project's .claude/skills/ directory
 cp -r claude-skills-public/skills/hook-generator /your-project/.claude/skills/
