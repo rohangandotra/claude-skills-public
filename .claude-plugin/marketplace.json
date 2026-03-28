@@ -14,7 +14,8 @@
         "./skills/overnight-agent",
         "./skills/social-media-poster",
         "./skills/competitor-analyzer",
-        "./skills/reel-editor"
+        "./skills/reel-editor",
+        "./skills/reel-from-script"
       ]
     }
   ]
