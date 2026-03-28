@@ -1,0 +1,20 @@
+{
+  "name": "creator-skills-pack",
+  "description": "Free Claude Code skills for content creators, marketers, and solopreneurs. Content repurposing, hook generation, landing pages, overnight agents, social posting, and competitor analysis.",
+  "plugins": [
+    {
+      "name": "creator-skills",
+      "description": "6 production-ready skills for content creation and marketing automation",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/content-repurposer",
+        "./skills/hook-generator",
+        "./skills/landing-page-builder",
+        "./skills/overnight-agent",
+        "./skills/social-media-poster",
+        "./skills/competitor-analyzer"
+      ]
+    }
+  ]
+}
